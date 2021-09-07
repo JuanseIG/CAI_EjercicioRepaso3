@@ -1,0 +1,7 @@
+D:\Ejercicios CAI\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\bin\Debug\CAI_EjercicioRepaso3.exe.config
+D:\Ejercicios CAI\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\bin\Debug\CAI_EjercicioRepaso3.exe
+D:\Ejercicios CAI\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\bin\Debug\CAI_EjercicioRepaso3.pdb
+D:\Ejercicios CAI\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\obj\Debug\CAI_EjercicioRepaso3.csproj.AssemblyReference.cache
+D:\Ejercicios CAI\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\obj\Debug\CAI_EjercicioRepaso3.csproj.CoreCompileInputs.cache
+D:\Ejercicios CAI\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\obj\Debug\CAI_EjercicioRepaso3.exe
+D:\Ejercicios CAI\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\CAI_EjercicioRepaso3\obj\Debug\CAI_EjercicioRepaso3.pdb
